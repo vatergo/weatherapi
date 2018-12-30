@@ -1,0 +1,14 @@
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\Proj.exe.config
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\Proj.exe
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\Proj.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.StartWindow.resources
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.Properties.Resources.resources
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.csproj.GenerateResource.Cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.exe
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Release\Proj.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Release\WeatherLib.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj", "Proj\Proj.csproj", "{E7E2EC75-F825-4C7B-A77B-5B7B97AA67B6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79} = {FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherLib", "WeatherLib\WeatherLib.csproj", "{2C2C9129-F71B-46C5-B365-A0BFC6132F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexAPI", "YandexAPI\YandexAPI.csproj", "{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E2EC75-F825-4C7B-A77B-5B7B97AA67B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E2EC75-F825-4C7B-A77B-5B7B97AA67B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E2EC75-F825-4C7B-A77B-5B7B97AA67B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E2EC75-F825-4C7B-A77B-5B7B97AA67B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2C9129-F71B-46C5-B365-A0BFC6132F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2C9129-F71B-46C5-B365-A0BFC6132F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2C9129-F71B-46C5-B365-A0BFC6132F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2C9129-F71B-46C5-B365-A0BFC6132F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F131BB-D6FB-471C-ABF5-4F8D3A5EED25}
+	EndGlobalSection
+EndGlobal

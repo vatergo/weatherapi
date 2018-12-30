@@ -1,0 +1,23 @@
+C:\Users\VaterGo\Desktop\Разработка ПО\YandexAPI-master\YandexAPI\bin\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\YandexAPI-master\YandexAPI\bin\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\bin\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\bin\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Debug\YandexAPI.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Debug\YandexAPI.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Debug\YandexAPI.pdb
+C:\Users\100\Desktop\С#\Project\Proj\YandexAPI\bin\Debug\YandexAPI.dll
+C:\Users\100\Desktop\С#\Project\Proj\YandexAPI\bin\Debug\YandexAPI.pdb
+C:\Users\100\Desktop\С#\Project\Proj\YandexAPI\obj\Debug\YandexAPI.csprojResolveAssemblyReference.cache
+C:\Users\100\Desktop\С#\Project\Proj\YandexAPI\obj\Debug\YandexAPI.dll
+C:\Users\100\Desktop\С#\Project\Proj\YandexAPI\obj\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\YandexAPI\bin\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Project\Proj\YandexAPI\bin\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\YandexAPI\obj\Debug\YandexAPI.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Project\Proj\YandexAPI\obj\Debug\YandexAPI.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Project\Proj\YandexAPI\obj\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Project\Proj\YandexAPI\obj\Debug\YandexAPI.pdb

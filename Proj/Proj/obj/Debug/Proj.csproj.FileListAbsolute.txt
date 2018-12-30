@@ -1,0 +1,41 @@
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\Proj.exe.config
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\Proj.exe
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\Proj.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.StartWindow.resources
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.exe
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\obj\Debug\Proj.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\Proj\bin\Debug\WeatherLib.pdb
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\Proj.exe.config
+C:\Users\100\Desktop\С#\Project\Proj\Proj\obj\Debug\Proj.exe
+C:\Users\100\Desktop\С#\Project\Proj\Proj\obj\Debug\Proj.pdb
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\Proj.exe
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\Proj.pdb
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\WeatherLib.dll
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\YandexAPI.dll
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\WeatherLib.pdb
+C:\Users\100\Desktop\С#\Project\Proj\Proj\bin\Debug\YandexAPI.pdb
+C:\Users\100\Desktop\С#\Project\Proj\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\100\Desktop\С#\Project\Proj\Proj\obj\Debug\Proj.StartWindow.resources
+C:\Users\100\Desktop\С#\Project\Proj\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\100\Desktop\С#\Project\Proj\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\Proj.exe.config
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\Proj.exe
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\Proj.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\WeatherLib.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\bin\Debug\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.StartWindow.resources
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.exe
+C:\Users\VaterGo\Desktop\Project\Proj\Proj\obj\Debug\Proj.pdb

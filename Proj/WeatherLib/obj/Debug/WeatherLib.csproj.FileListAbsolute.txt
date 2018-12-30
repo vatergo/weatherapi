@@ -1,0 +1,17 @@
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\WeatherLib\bin\Debug\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\WeatherLib\bin\Debug\WeatherLib.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\WeatherLib\obj\Debug\WeatherLib.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\WeatherLib\obj\Debug\WeatherLib.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\WeatherLib\obj\Debug\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\Proj\WeatherLib\obj\Debug\WeatherLib.pdb
+C:\Users\100\Desktop\С#\Project\Proj\WeatherLib\bin\Debug\WeatherLib.dll
+C:\Users\100\Desktop\С#\Project\Proj\WeatherLib\bin\Debug\WeatherLib.pdb
+C:\Users\100\Desktop\С#\Project\Proj\WeatherLib\obj\Debug\WeatherLib.csprojResolveAssemblyReference.cache
+C:\Users\100\Desktop\С#\Project\Proj\WeatherLib\obj\Debug\WeatherLib.dll
+C:\Users\100\Desktop\С#\Project\Proj\WeatherLib\obj\Debug\WeatherLib.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\WeatherLib\bin\Debug\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Project\Proj\WeatherLib\bin\Debug\WeatherLib.pdb
+C:\Users\VaterGo\Desktop\Project\Proj\WeatherLib\obj\Debug\WeatherLib.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Project\Proj\WeatherLib\obj\Debug\WeatherLib.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Project\Proj\WeatherLib\obj\Debug\WeatherLib.dll
+C:\Users\VaterGo\Desktop\Project\Proj\WeatherLib\obj\Debug\WeatherLib.pdb

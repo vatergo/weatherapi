@@ -1,0 +1,6 @@
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\bin\Release\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\bin\Release\YandexAPI.pdb
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Release\YandexAPI.csprojResolveAssemblyReference.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Release\YandexAPI.csproj.CoreCompileInputs.cache
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Release\YandexAPI.dll
+C:\Users\VaterGo\Desktop\Разработка ПО\Proj\YandexAPI\obj\Release\YandexAPI.pdb
